@@ -1,0 +1,69 @@
+88@@B@$$BBB%B%BBBB%BB@%BB$BB@$$$$@$%8%B$BBB%%88%%BBBBBB@@@@$$    $$$$$$BBB@@@$$$    $$$$$$@@@@@@B@@@@@@@@@@@$$$   $@@@@@@@@@@@@@@@BB@@@@$ $
+8B$$$$$$$B%%%%@B%%%BB@B%B$@@$@B8%B@@%B8B$B%B%88%%BBBBBBBBBBB@@@$$     @88%%BB@@@$$@@@@@@BB@@$$  $@@@@@@@@$$$$   $@@@@@@@@@@@@@@@@BB@@@@$ $@
+B$@B$@B@@$@%%BB%B%%@B%%BB$$$BB%88%%@B%88@$@BBB%%%BBB%BBB@BBBB@@@@@$$ $@BBBB@@@@@@@@@@@@$$        @@B@@$$  $   $@@@@@@@@@@@@@@@@@BB@@@@@  $ 
+$@%%$BBBB@$$BBB%B%%BB%%BB@$$%8B888%%@8888@ @B$@B%%BBBBBB@B@BBB@@@BB@ $$                          @@$$      $@@@@@@@@@@@@@@@@@@@@B@@@@@$    
+B%%B$@@@B@$$$B%@BBB%%B%B%%@BB8%B%B%8@@8888BBB$$B%%BB@@@BB@@BBBBB@BB@$$                            $      $@@@@@@@@@@@@@@@@@@@@@BB@@@@$  $$$
+%%%B@BBB@@$@@B%BB%%%BBBBBBBB888%BB%8%@B8888%%$@@%%B@BBB@@@@@BBBB@@@@$$                            $   $$@@@@@@@@@@@@@@@@@@@@@@BB@@@@@  $@@@
+%%%%8%%%BB@BBBBBBBBBBBBBBBB@%88888888%$%8888%@$@%%B@@@BBBBB@BBBB@@B$                              $@@@@@@@@@@@@@@@@@@@@@@@@@@@B@@@@@  $@@@@
+%888888%%%@@BBBBBBBBBBBBBBB@B888B88888B$%%$@@%B@%%%@@@@@@BBB@B@B@B@                               $B@@@@@@@@@@@@@@@@@@@@@@@@@BB@@@@$ $@@@@@
+8888888%%%B@BBBBBBBBBBBBBBB@@%%8@$B@BB%B@B  $BB$@@B@@B@@@@BBBB@B@@$                               $B@@@@@@@@@@@@@@@@@@@@@@@@BB@@@@@$$@@@@@@
+888888%%%%B@BBBBBBBBBBBBBBBB@B@%8@ $$$$$$$$@@BB$  $$$@@B@@@@BB@B@B@                               $B@@@@@@@@@@@@@@@@@@@@@@@@B@@@@@@@@@@@@@@
+%%%%%%%%%%B@BBBBBBBBB%%%%%%B@B@B8%$%%B$$$ $@BB%%B@$$  $$$@BB@@@B@@@$                              $@@@@@@@@@@@@@@@@@@@@@@@@B@@@@@@@@@@@@@BB
+BBB%%BBBB%BB%%%%%BBB%%%%%%%%@@%$B@$%%%@$@$$@BB%%%%%BB@$$  $$@@@B@@B$                               @B@@@@@@@@@@@@@@@@@@@@@BBBBB@@@@@@@@@B%B
+BBBBBBBBBBB@B%%%BBBBB%%%%%%%@@BB$$B88B@$@@@@BB%%%%%%%BBB@$$   $$$@@@$ $$                           @BB@@@@@@@BB@@B@@@@@@@@@@@@@@BBBBBBBBB@@
+BBBBBBBBBBB@BBBBBBBBBB%%%%%%@$@%%%%8%@@$$BBBBB%%%%%%BBBBBB@$$$$  $$$$ $$                           $@BBBB@@@@$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BBBBBBBBBBB@BBBBBBBBBBBBBBBB@$$@8%8%B@B$$@B%B%%%%88%B@@@@@@@@@$$$$   $$                            $BB@@@@$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BBBBBBBBBBB@BBBBBBBBBBBBBBBB@$$@%%B$$@$$$@B@@BB@@@@@$$$@@@@@@$$@@@@@$$$$                          $@@@@@@@@@@@@@@@@@@@@@@$$$$$$$$$$$$$@@@@@
+BBBBBBBBBBBBBBBBBBBBBBBBBBBB@$$@%8%B@@@B$$@$@$@$$$$$$$$$@@@$$@BBBBBB$$                           $@@@@@@@@@@@@@@@@@$$$$$$$$$$$$      $$$$$$
+BBBBBBBBBBB@BBBBBBBBBBBBBBBB@$$@B8%8%B@B@@$@%B$$@BB%B%@ $@@@@BBBB@@@$$                           @@@@@@@@@@@$$$$$$$$$          $$$$$$$$$   
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBB$$$@B@@@@@$@%B%8%$$$$@BB@$$$@BBB@@@@@BB$                            @@@@$$$$$$$        $$$$$$$$$$$$$$$$@@@$$$$
+BBBBBBBBBBBB@BBBBBBBBBBBBBBBB$$$$$$@BB$$$@%%%B$$$@$ $$$$@B@@$@@BBBB@                             $$       $$$$$$$$$$@@@$$@$$$$@@@@@@@@@@@@@
+BBBBBBBBBBBB@BBBB%BBBBBBBBBBB$$$@@BBB@$$$@B%B$$@B%$$@@@BBBBBBBBBBBB@              $              $$$$$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BBBBBBBBBBBB@BBBBBBBBBBBBBBBB$$$$@B@@BBB@$@@@@BBBBBBBBBBBBBBBBBBBBB$              $$            $@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BBBBBBBBBBBB@BBBBBBBBBBBBBBBB$$$$@@BBBBBBBBB%%BBBBBBBBBBBBB@@@@@@@@              $@@            @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BBBBBBBBBBBB@BBBBBBBBBBBBBBBB@@BBBBBBBBBBBBBBBBBB@@@@@@@@@$$$$$$$@@             @%%%$           @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BBBBBBBBBBBB@BBBBBBBBBBBBBBB%BBBBBBBB@@@@@@@@$$$$$$$$$$@@BBBBBBBB%%$           @%%%%@          $B@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BBBBBBBBBBBB@BBBBBBBBBBBBBBBBB@@@@@$$$$@@$$$@@@@BBBBBBBB%%%%%%%%%%%@          $%%%%%B          @B@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BBBBBBBBBBBB@BBBBBBBBBB@$$$$$@@@@@@@@@@@@@@@@BBBBBBBBBBBB%%%%%%%%%%%$         B%%%%%B         $@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BBBBBBBBBBBB@BBBBBBBBBBBBBBBBBBBBBBB@@BB@@@@@@BBBBBBBBBBB%%%%%%%%%%%@        @%%BBBBB$        @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BBBBBBBBBBBB@@BBBBBBBBBBBBBBBBBBBBBBB@@BBBBB@@BBBBBBBBBBBB%%%%%%%%%%$        BBBBBBBB$       $@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BBBBBBBBBBBBB@BBBBBBBBBBBBBBBBBBBBBBBBBBBBBB@@@@BBBBBBBBBB%%%%%%%%%B$        BBBBBBBB$        @@@@@@@@@$$$@$$$$$$@@@$$@$$$$$$$$$@@@@@@@@@@@
+BBBBBBBBBBBB@@BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB@@@@BBBBBBBBBB%%%%%%%%B$       @BBBBBBBB@        @@@@@@@@@@@@@@@@@@@@@@@@@@@$$$$$$$$$$$$$$@$$$
+@@BBBBBBBBBB@@BBBBBBBBBB@BBBBBBBBBBBBBBBB@@@@@@@@@BBBBBBBBBBBBBB%%%@        BBBBBBBBBB        $@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+B@@@@BB@BBBBB@BBBBBBBBB@@BBBBBBBBBBBBB@@@@@@@@@@@@BBBBBBB%%%%BB%%%%@       $%%%%%%%%%B$       $BBBBBBBBBB@@@@@@@@@@@$$$$$$$$$$$$@@@@@@@@@@@
+%%%%%BBBBBBBBBB@@@@BB@@@@@BBBBBBBBBBBB@@@@BBBBB%%%%%%%B%%%%%BB%%%%%@       @%%%%%%%%%%@       $BBBBBBBBBBBBBBBBBBBBBBBBBB@@@@@@@$$$$@@@@@@@
+%%%%%%%%%%%%%B%%%BBBBBB@@@@BBBBBBBBBBBB%%%%%%%%%%%%%%%%%%%%B%%%%%%%@       @%%%%%%%%%%B       $BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB@@@@@@@@@
+%%%%%%%%%%%%%%%%%%%%8%%%%%B%BBB%%%%%%%%%%%%%%%%%%%%BBBBBBBBB%%%%%%%@       B%%%%%%%%B%B        BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB%BBB@@@@
+%%%%%%%%%%%%%%%%%%%%%%B%%%%%%%%%%%%%%%%%%%%%%BBBBBBBBBB%BB%%%%%%%%%@      $%%%B%%%%%BBB$       BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB%%%%%%%BB
+%%%%%%%%%%%%%%%%%%B@@@B%%%%%%%%%%%%%%%%%%%%BB%%BBBBB%%%BB%%%%%%%%%%@      $%%%%%%%%%%%%@       B%BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB%%%%%%%%%%
+%%%%%%%%%%%%%%%BB@@@B%%%%%%%%%%%%%%%%%%%%%%%B%BBBBB%%BBB%%%%%%%%%%%@      @%%%%%%%%%%%%@       B%%BBBBBBB%BBBBBBBBBBBBBBBBBB@BBBBBBBBB%%B%B
+%%%%%%%%%%%%%%B@@@B%%%%%%%%%%%%%%%%%%%%%BBBBBBBBBBBBBB%%%%%%%%%%%%%@      @%%%%%BB%%%%%@       B%%BB%%%BB%BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+%%%%%%%%%%%%B@@@B%%%%%%%%%%%%%%%%%%%%%%BBBBBBBBBBB%%%%%%%%%%%%%%%%%@      B%%%%BBBBBBB%B       B%%BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+%%%%%%%%%%B@@@B%%%%%%%%%%%%%%%%%%%%%%%BB%%%%%%%%8888%%%%%%%%%%%%%%%@      B%%%%%BBBBBBBB       B%B%%BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+%%%%%%%%B@@@B%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%8888888%BBBB%%%%%%%%%%%@      B%BB%BBBBBBBBB$      B%%%%BBBB%BBBBBBBBBBBBBBBB@BBBBBBBBBBBBBBBBB
+%%%%%%B@@@B%%%%%%%%%%%%%%%%%%%%%%%%%%%8%8888888888%%%%%BBBB%%%%%%%%@      B%%BBBBB%%%BBB$      B%BBBBBBBBBBBBBBBBB%BBBBB$ $@BBBBBBBBBBBBBBB
+%%%%B@@@B%%%%%%%%%%%%%%%%%%%%%%%%8%%%%8%%%%%%%%%%%%%%%%%%%%%%%%%%%%@      B%%%BBBBBBBBB%@      @%BBBBBBBBBBBBBBBBBBBBBB@$$ @BBBBBB@BBBBBBBB
+%%B@@@B%%%%%%%%%%%%%%%%%%%%%%%%88888%%%%%%%%%%%%%%%%%%%%%%BBBBBBBBB@      B%%%%%BBBBBBBB@      $BBBBBBBBBBBBBBBBBBBBBBB@$$ @BBBBBBBBBBBBBBB
+B@@@B%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%8%%%%%%%%%8%%%%%%%%%8%%%BBBB%%BBB     $BBBBBBBBBBBBBB@      $BBBBBBBBBBBBBBBBBBBBBBB@ $ @B@@BB%BBBBBBBBB
+@@B%%8%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%B@@    B%BBBBBBBBBBBBB@      @BBBBBBBBBBBB@@@@@@BBBBB@$$ $BB$$@BBBBBBBBBB
+@B%%%%%%%%%%%%%%%%8%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%BB@@@@BB%BBBB@$$@%BBBBBBBBBBBBBBB$    @BBBBBBBBBBBB@@@@@@@@@@BBB$  $B@ $BBBBBBBBBBB
+%8%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%8%%%%%%%%%%%%%B@@@@@@@BB@@BBB@@BBBBBBBBBBBBBBBB@    @@BBBBBBBBBBBB@@@@@@@@@@@B$   @  @BBBB@BBBBBB
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%888%%%%%%%%%%%%%%%%%BB@@@@@@BB@$@B@@$@@@@@@@@@@@@@@@@@$$$@@@@BBBBBBBBB@@@@@@$$$$@@@@@   @@$@@@@@@B%%BBB
+%%%%%%%%%%%%%%%88%%%%%%%%%%%%%%%%8888%%%%%%%%%%%%%%%BBBB%BBBBBBBBBBB@   $@@@@@@@@@@@$$$$$@@@BB@$@@@BBB@@BBB@@@@@$$$$$$$$@$  $$$@@@@@@B%%%%%
+%%%%%%%%%%%%%%888%%%%%%%%%%%%%%%%%%88%88%%%%%%%%%%%%BBBBBBBBBBBBBBBB$  $$@@@@@@@@@@@@@$$$$@BBB$$$$@BBBBBBBB@@@@$$$$$$$$$$$  $$$@@@@@@@BBB%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%88888%%%%8%88%%%88%%%%%%%%%BBBBBBBBB%BBBB@@@@@@@@@@@$$$$$$$BBB$$$$@@@BBBB@@@@@@$$$$$$$$$$$  $@@@@@@@@@B%BB%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%88%%%%%8%%%%%%%%%%%%B%%BB@$$@@B@@@@@@@@BBBBB@@@$$$$$$$$ $@$@@@@@BBB@@@@@$$$$$$$$$$    @@@@@@@@@B%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%8%%%%%BB%%%%%%%B%%%%BBBBBB@@$$    $$$$$$@@@@@@B@@@$$$    @@@@@@@@@@@@@@@$$$$$$$$$$$    @@@@@@$@@BBBB%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%BB@@@@$$   $$$$$$$$$$$$$$$$$$$$$$$@B@@@@@@@@@@@@$$$$$$$$$$$$$    @@@@@@@@@BBBBB
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%B%%%%%%%%%%%%%%%%%%%%%%%%%%%BBBB@@$$$$$$$$$$$$$$$$$    $$ @BB%@@@@@@@@@@@@@$$$$$$$$$$$$$$   $@@@@@@BBBBBBB
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%B%888888%%%%%%%%%%%%%%%B%%%%%%BBB@@@@@@@@@@@$@$$$$$$  $$$$ $@@@@@@@@@@@@@@$$$$$$$$$$$$$$$   $@@@@@@BBBBBBB
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%8888888%%%%%%%%%%%%%%%%%%%B%%%BBBBBBBBBBBB@@@@@@@@@@$$$$$$@@@@@@@@@@@@@@@$@$$$$$$$$$$$$$  $$@@@@@@@@BBBBB
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%88%%88%%%%%%%%%%%%%%%%%%%BB%BBBBBBBBBBBB%BBBBBBBBBBBBB@@@B@@@@@@@@@@@@@@@@@@@$$$$$$$$$$$$$ $$$@@@@@BBBBBBBB
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%8%%8%%%%%%%%%%%%%%%%%%%%%%%%%%BBBBBBBBBBBBBBBBBBBBBBBBB@@@BBBBBBB@@@@@@BBB@@@$$$$$$$$$$$$$$$$$$@@@BBBB@@B%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%88%%%%%%%%%%%%%%%%%%%%%%%%%%%%%BBBBBBBBBBBB@B@BBBBBBBBBBBBBBBBBBBBBBBBBBBBB@@@@@$$$$$$$$$$$$$$$$$@@$BB@BB@@BB
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%88%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB@@@@@@$$$$$$$$$$$$$$$$B@$$@B%B@@BB
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%8%%%%%%%%%%%%%%%%%%%%%%%%B%%%%%%%%%%%%%%%%%%%BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB@@@@@@$$$$$$$$$$$$$$$$B $  $@@@@@B
+%%%%%%%%%%%%%%%%%%%%%%%%%%%8888%%%%%%%%%%%%%%%%%%%%%BBBBB%%%%%%%%%%%%BB%%%BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB@@@@@@@$$$$$$$$$$$$$$B@   $@@@@@@B
+%%%%%%%%%%%%%%%%%%%%%%%%%%8%%%%%%%%%%%%%%%%%%%%%%%%%BBBBBB%%%%%BBB%%BBBBBBBBBBBBBBBBB@@@@@BBBBBBBBBBBBBBB@@@@@@@@$$$$$$$$$$  $B$   $@@@@@@@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%BBBB%%%%%%%%%%%BBBBBBBBBBBBBBBBBBB@@BBBBBBBB@BBBBBB@@@@@@@@$$$$$$$$$$$ @B$$  @B@@@@@@
+%%%%%%%%%%%%%%%%%%%%%%%88%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%B%%%%%%%%%%BBBBBBBBBBBBBBBBBBBBBB@BBBBBBBBBBB@BBBBB@@@@@$@@@@$$$$$$$$$B@@$ $BBB@BB@@
